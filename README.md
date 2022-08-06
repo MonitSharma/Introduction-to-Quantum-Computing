@@ -11,7 +11,7 @@ Other recommended lecture notes: [John Watrous](https://cs.uwaterloo.ca/~watrous
 # Course Schedule
 We will majorly focus on quantum algorithms in this version of the course.
 
-### Week 1: Introduction
+### Week 1: Introduction ([Lecture Notes](https://vaulted-pelican-d82.notion.site/Week-1-Introduction-to-Quantum-Computing-Theory-b63706ed813d44a6aebb75fe9a5b2c46))
 It includes topics like:
 
   #### 1. Quantum Information Science : quantum theory + computer science + information theory 
@@ -63,9 +63,7 @@ Example: Deep learning. Mostly tinkering so far, without much theory input.
   How to distinguish two subsystems?
   
   
-  
-  
-  
+ 
 .... work on progress.
 
 ### Week 2: Density Operators
