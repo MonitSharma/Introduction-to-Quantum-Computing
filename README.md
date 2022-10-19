@@ -11,57 +11,52 @@ Other recommended lecture notes: [John Watrous](https://cs.uwaterloo.ca/~watrous
 # Course Schedule
 We will majorly focus on quantum algorithms in this version of the course.
 
-### Week 1: Introduction ([Lecture Notes](https://vaulted-pelican-d82.notion.site/Week-1-Introduction-to-Quantum-Computing-Theory-b63706ed813d44a6aebb75fe9a5b2c46))
-It includes topics like:
 
-  #### 1. Quantum Information Science : quantum theory + computer science + information theory 
-  What is quantum information science? What is it composed of? Various branches of it, like Quantum sensing, quantum cryptography, quantum networking, etc.
+
+
+<table class="tg">
+  <tr>
+    <th class="tg-yw4l"><b>Sr. No</b></th>
+    <th class="tg-yw4l"><b>Title</b></th>
+    <th class="tg-yw4l"><b>Description</b></th>
+    <th class="tg-yw4l"><b>Lecture Notes</b></th>
+    
+  </tr>
   
-  #### 2. Frontiers of Physics
-  What are the major breakthroughs in physics, and at what scale do we study them? Where does quantum information science lie among them?
+  <tr>
+    <td class="tg-yw4l">1.</td>
+    <td class="tg-yw4l">Introduction to Quantum Computing</td>
+    <td class="tg-yw4l">A basic introduction to quantum computing ,qubits and technology </td>
+    <td class="tg-yw4l"><a href="https://vaulted-pelican-d82.notion.site/Week-1-Introduction-to-Quantum-Computing-Theory-b63706ed813d44a6aebb75fe9a5b2c46">
+   <img src="https://github.com/MonitSharma/MonitSharma/blob/main/notion.svg" width="50" height="50" >
+    
+</a></td>
+  </tr>
   
-  #### 3. Quantum Entanglement
-  Analogy by book. Nearly all the information in a typical entangled “quantum book” is encoded in the correlations among the “pages”. You can't access the information if you read the book one page at a time.
-  
-  
-  #### 4. Why we think quantum computing is powerful?
-  Problems believed to be hard classically, which are easy for quantum computers. Factoring is the best known example and Complexity theory arguments indicating that quantum computers are hard to simulate classically.
-  
-  
-  
-  #### 5. Decoherence
-  Decoherenceexplains why quantum phenomena, though observable in the microscopic systems studied in the physics lab, are not manifest in the macroscopic physical systems that we encounter in our ordinary experience.
-  
-  
-  #### 6. Qubit
-  A vector (actually a “ray” because the normalization is 1 by convention, and the overall phase does not matter) in a two dimensional complex Hilbert space.
-  
-  
-  #### 7. What quantum computational supermacy means?
-  An impressive achievement in experimental physics and a testament to ongoing progressin building quantum computing hardware.
-We have arguably entered the regime where the extravagant exponential resources of the quantum world can be validated.
-  
-  #### 8. Quantum computing in NISQ era
-  The (noisy) 50-100 qubit quantum computer has arrived.
-(NISQ= noisy intermediate-scale quantum.)
-NISQ devices cannot be simulated by brute force using the most powerful currently existing supercomputers.
-Noise limits the computational power of NISQ-era technology.
-  
-  #### 9. Hybrid quantum/ classical optimizers
-  We don’t expect a quantum computer to solve worst case instances of NP-hard problems, but it mightfind better approximate solutions, or find them faster.
-Classical optimization algorithms (for both classical and quantum problems)
-  
-  #### 10. The era of quantum heuristics
-  Sometimes algorithms are effective in practice even though theorists are not able to validate their performance in advance.
-Example: Deep learning. Mostly tinkering so far, without much theory input.
-  
-  #### 11. Information vs Disturbance
-  What can we measure and what can't we mwasure without disturbing the state?
+  <tr>
+    <td class="tg-yw4l">2.</td>
+    <td class="tg-yw4l">Density Operators</td>
+    <td class="tg-yw4l">Introduction to Grobner Basis and how to implement them</td>
+    <td class="tg-yw4l"><a href="https://vaulted-pelican-d82.notion.site/Quantum-Integer-Programming-Lecture-2-93ee20895beb4b14afc9da41f17b52a2">
+   <img src="https://github.com/MonitSharma/MonitSharma/blob/main/notion.svg" width="50" height="50" >
+    
+  </tr>
   
   
-  #### 12. Tensor Product
-  How to distinguish two subsystems?
-  
+  <tr>
+    <td class="tg-yw4l">3.</td>
+    <td class="tg-yw4l">Convexity, HJW theorem, generalized measurements</td>
+    <td class="tg-yw4l">Introduction to Graver Basis and how to implement them</td>
+    <td class="tg-yw4l"><a href="https://vaulted-pelican-d82.notion.site/Quantum-Integer-Programming-Lecture-3-4c0242a8b11146e3a7326de765ac13d6">
+   <img src="https://github.com/MonitSharma/MonitSharma/blob/main/notion.svg" width="50" height="50" >
+    
+  </tr>
+
+
+ 
+  </table> 
+ 
+
   
  
 .... work on progress.
