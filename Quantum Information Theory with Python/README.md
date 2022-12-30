@@ -1,2 +1,2 @@
-# INFPHY201
-Course material for INFPHY201: quantum information in python
+# Quantum Information Theory with Python
+Course material for quantum information in python
