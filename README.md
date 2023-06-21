@@ -14,85 +14,27 @@ We will majorly focus on quantum algorithms in this version of the course.
 
 
 
-<table class="tg">
-  <tr>
-    <th class="tg-yw4l"><b>Sr. No</b></th>
-    <th class="tg-yw4l"><b>Title</b></th>
-    <th class="tg-yw4l"><b>Description</b></th>
-    <th class="tg-yw4l"><b>Lecture Notes</b></th>
-    
-  </tr>
-  
-  <tr>
-    <td class="tg-yw4l">1.</td>
-    <td class="tg-yw4l">Introduction to Quantum Computing</td>
-    <td class="tg-yw4l">A basic introduction to quantum computing ,qubits and technology </td>
-    <td class="tg-yw4l"><a href="https://vaulted-pelican-d82.notion.site/Week-1-Introduction-to-Quantum-Computing-Theory-b63706ed813d44a6aebb75fe9a5b2c46">
-   <img src="https://github.com/MonitSharma/MonitSharma/blob/main/notion.svg" width="50" height="50" >
-    
-</a></td>
-  </tr>
-  
-  <tr>
-    <td class="tg-yw4l">2.</td>
-    <td class="tg-yw4l">Density Operators</td>
-    <td class="tg-yw4l">Introduction to Grobner Basis and how to implement them</td>
-    <td class="tg-yw4l"><a href="https://vaulted-pelican-d82.notion.site/Quantum-Integer-Programming-Lecture-2-93ee20895beb4b14afc9da41f17b52a2">
-   <img src="https://github.com/MonitSharma/MonitSharma/blob/main/notion.svg" width="50" height="50" >
-    
-  </tr>
-  
-  
-  <tr>
-    <td class="tg-yw4l">3.</td>
-    <td class="tg-yw4l">Convexity, HJW theorem, generalized measurements</td>
-    <td class="tg-yw4l">Introduction to Graver Basis and how to implement them</td>
-    <td class="tg-yw4l"><a href="https://vaulted-pelican-d82.notion.site/Quantum-Integer-Programming-Lecture-3-4c0242a8b11146e3a7326de765ac13d6">
-   <img src="https://github.com/MonitSharma/MonitSharma/blob/main/notion.svg" width="50" height="50" >
-    
-  </tr>
-
 
  
-  </table> 
- 
-
+| Lecture Number | Title |  Medium Article |
+| --- | --- | --- |
+| 1 | Introduction to Quantum Computing|   [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@_monitsharma/daily-leetcode-problems-problem-24-swap-nodes-in-pairs-51aa79e974e4) | 
+| 2 | Density Operators|   [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@_monitsharma/daily-leetcode-problems-problem-24-swap-nodes-in-pairs-51aa79e974e4) |
+| 3 | Convexity, HJW theorem, generalized measurements|   [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)]() |
+| 4 | Quantum Channels, complete positivity, channel state duality|   [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)]() |
+| 5 | Qubit Channel, master's equation|   [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)]() |
+| 6 | bell inequalities, CHSH Game|   [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)]() |
+| 7 | Bell Polytype and its dual, quantum vs classical model|   [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)]() |
+| 8 |  Superdense Coding and quantum teleportation|   [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)]() |
+| 9 | Circuit Complexity , P vs NP, NP-completeness|   [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)]() |
+| 10 | BPP and MA, Reversible Computing, BQP and QMA|   [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)]() |
+| 11 | Quantum Circuits, universal gates|   [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)]() |
+| 12 | Universal Gates, Solovay-Kitaev Theorem|   [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)]() |
+| 13 | Black Box model, Deutsch-Jozsa problem, Simon's problem|   [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)]() |
+| 14 |  Period finding|   [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)]() |
+| 15 | Factoring, public key cryptography, phase estimation|   [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)]() |
+| 16 |Quantum Searching|   [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)]() |
+| 17 |  Quantum Simulation|   [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)]() |
+| 18 | Local Hamiltonian Problem|   [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)]() |
   
- 
-.... work on progress.
-
-### Week 2: Density Operators
-
-### Week 3: Convexity, HJW theorem, generalized measurements
-
-### Week 4: Quantum Channels, complete positivity, channel state duality
-
-### Week 5: Qubit Channel, master's equation
-
-
-### Week 6: bell inequalities, CHSH Game
-
-### Week 7 : Bell Polytype and its dual, quantum vs classical model
-
-### Week 8 : Superdense Coding and quantum teleportation
-
-### Week 9 : Circuit Complexity , P vs NP, NP-completeness
-
-### Week 10 : BPP and MA, Reversible Computing, BQP and QMA
-
-### Week 11 : Quantum Circuits, universal gates
-
-### Week 12 : Universal Gates, Solovay-Kitaev Theorem
-
-### Week 13 : Black Box model, Deutsch-Jozsa problem, Simon's problem
-
-### Week 14 : Period finding
-
-### Week 15 : Factoring, public key cryptography, phase estimation
-
-### Week 16 : Quantum Searching
-
-### Week 17 : Quantum Simulation
-
-### Week 18 : Local Hamiltonian Problem
 
