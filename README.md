@@ -15,33 +15,10 @@ Other recommended lecture notes: [John Watrous](https://cs.uwaterloo.ca/~watrous
 
 
 
-# Course Schedule
-We will majorly focus on quantum algorithms in this version of the course.
-
 
 
 
 
  
-| Lecture Number | Title |  Medium Article |
-| --- | --- | --- |
-| 1 | Introduction to Quantum Computing|   [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@_monitsharma/daily-leetcode-problems-problem-24-swap-nodes-in-pairs-51aa79e974e4) | 
-| 2 | Density Operators|   [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@_monitsharma/daily-leetcode-problems-problem-24-swap-nodes-in-pairs-51aa79e974e4) |
-| 3 | Convexity, HJW theorem, generalized measurements|   [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)]() |
-| 4 | Quantum Channels, complete positivity, channel state duality|   [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)]() |
-| 5 | Qubit Channel, master's equation|   [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)]() |
-| 6 | bell inequalities, CHSH Game|   [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)]() |
-| 7 | Bell Polytype and its dual, quantum vs classical model|   [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)]() |
-| 8 |  Superdense Coding and quantum teleportation|   [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)]() |
-| 9 | Circuit Complexity , P vs NP, NP-completeness|   [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)]() |
-| 10 | BPP and MA, Reversible Computing, BQP and QMA|   [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)]() |
-| 11 | Quantum Circuits, universal gates|   [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)]() |
-| 12 | Universal Gates, Solovay-Kitaev Theorem|   [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)]() |
-| 13 | Black Box model, Deutsch-Jozsa problem, Simon's problem|   [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)]() |
-| 14 |  Period finding|   [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)]() |
-| 15 | Factoring, public key cryptography, phase estimation|   [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)]() |
-| 16 |Quantum Searching|   [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)]() |
-| 17 |  Quantum Simulation|   [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)]() |
-| 18 | Local Hamiltonian Problem|   [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)]() |
-  
+
 
